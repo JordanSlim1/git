@@ -1,6 +1,6 @@
 # Git
 Exercise Objective: 
-* Install Git on your machine and create a GitHub account that you will upload work to for the duration of this boot camp.
+* Understanding how to use Git and GitHub, and to learn the general git work flow @ TEKcamp.
 
 Exercise Steps/Instructions:
 1. Download Git and install on your machine.
@@ -25,7 +25,7 @@ Exercise Steps/Instructions:
 * Save your changes, then add, commit and push your files up to the html-branch repository on github. Make sure you add a descriptive message for your commit.
 * Refresh your repository to make sure your file was uploaded and the html-branch was updated.
 * Create another branch called text-branch
-* Move the notes.txt from master to the text-branch. The master branch should now be completely empty at this point.
+* Move the notes.txt from master to the text-branch. The master branch should now be completely empty at this point, aside from the README file.
 * Check the status, add, commit and push your changes to the text-branch.  Make sure you add a descriptive message for your commit.
 * Add 3 additional lorem-ipsum paragraphs into the notes.txt file which should now be on the text-branch.
 * Commit and push your additional changes to the text-branch on GitHub.  Make sure you add a descriptive message for your commit.
