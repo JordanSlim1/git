@@ -18,6 +18,7 @@ Exercise Steps/Instructions:
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push all of your commits: <code>git push origin `<firstName-lastName>`</code>.
 - [ ] When ready for your TM to review, open a Pull Request (PR) and add your TM as a collaborator.
+
 ## ********************************************************
 ## Exercise Instructions
 
@@ -37,7 +38,9 @@ Exercise Steps/Instructions:
 * On GitHub, verify that the master branch only has the README.md and the data.json file with nothing else.  Verify that the html-branch and the text-branch each have a respective .html and .txt file.
 Submit a pull request for both the html-branch and the text-branch to be merged into master.  Add your TA as a collaborator for both Pull Requests (PR).  
 
+## ********************************************************
 **Bonus**:
+
 **(not graded, but made available for your development as a developer. ⛰)**
 * The instructions for the bonus functionality are on another branch of this repo.  Find those instructions.
 
