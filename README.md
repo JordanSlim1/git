@@ -1,23 +1,11 @@
 # Git
-Exercise Objective: 
-* Understanding how to use Git and GitHub, and to learn the general git work flow @ TEKcamp.
 
-Exercise Steps/Instructions:
-1. Download Git and install on your machine
-2. Create a GitHub account
+* In this exerdUnderstanding how to use Git and GitHub, and to learn the general git work flow @ TEKcamp.
 
+Exercise Pre-reqs : 
+1. [Download Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and install on your machine
+2. [Create a GitHub account](https://github.com/join)
 
-## ********************************************************
-## Git Instructions
-
-- [ ] Create a template copy of this repository by clicking : "Use this template"
-- [ ] Name the repository the same name as the master template repository.  
-- [ ] Add your TM as collaborator
-- [ ] Clone YOUR repo to your local computer
-- [ ] Create a new branch: <code>git checkout -b `<firstName-lastName>`</code>.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push all of your commits: <code>git push origin `<firstName-lastName>`</code>.
-- [ ] When ready for your TM to review, open a Pull Request (PR) and add your TM as a collaborator.
 
 ## ********************************************************
 ## Exercise Instructions
@@ -39,20 +27,20 @@ Exercise Steps/Instructions:
 Submit a pull request for both the html-branch and the text-branch to be merged into master.  Add your TA as a collaborator for both Pull Requests (PR).  
 
 ## ********************************************************
-**Bonus**:
+## Optional:
 
 **(not graded, but made available for your development as a developer. ⛰)**
-* The instructions for the bonus functionality are on another branch of this repo.  Find those instructions.
+* The instructions for the optional exercise is on another branch of this repo.  Find those instructions.
 
 
 ## ********************************************************
-## Submission Instructions
-## When you've finished completing the exercise :
+## Git Instructions
 
-- [ ] Submit the exercise in the [TEKacademy portal](https://bit.ly/TEKacademy)
-
-- [ ] Complete the <a href="https://bit.ly/2KE32Yw" target="_blank">Exercise Evaluation Form</a> in the portal. 
-  
-- [ ] Download & Complete the [Exercise Evaluation Form](https://bit.ly/TEKacademy)
-  
-- [ ] Upload the form in [TEKacademy](https://bit.ly/TEKacademy)
+- [ ] Create a template copy of this repository by clicking : "Use this template"
+- [ ] Name the repository the same name as the master template repository.  
+- [ ] Add your TM as collaborator
+- [ ] Clone YOUR repo to your local computer
+- [ ] Create a new branch: <code>git checkout -b `<firstName-lastName>`</code>.
+- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [ ] Push all of your commits: <code>git push origin `<firstName-lastName>`</code>.
+- [ ] When ready for your TM to review, open a Pull Request (PR) and add your TM as a collaborator.
