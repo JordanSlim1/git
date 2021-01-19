@@ -1,6 +1,6 @@
 # Git
 
-* In this exerdUnderstanding how to use Git and GitHub, and to learn the general git work flow @ TEKcamp.
+* In this exercise, you will understand how to use Git and GitHub, as well as learn the general git work flow @ TEKcamp.
 
 Exercise Pre-reqs : 
 1. [Download Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and install on your machine
